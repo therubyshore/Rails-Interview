@@ -1,11 +1,25 @@
-== Interview
+== Instructions
 
-* Answer questions in QUESTIONS.md. Commit answers.
+* Answer questions
 
-* Produce code in the same way you would any other day.
+  * See QUESTIONS.md
+  * Commit answers
 
-* Accomplish feature X, Y, Z
+* Produce code in the same way you would any other day
 
-* Fix bug X
+  * That means commit when you would normally commit
+  * Test when you would normally test
+  * Etc.
 
-* Archive (Zip) your work and send it to engineering@twinenginelabs.com with the subject "Interview Code - <Name>"
+* Accomplish these features
+
+  * 
+
+* Fix these bugs
+
+  * 
+
+* Deliver your work
+
+  * Archive (Zip) the source code. Make sure to retain git commits
+  * Email it to engineering@twinenginelabs.com with the subject "Interview Code - <Name>"
