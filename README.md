@@ -23,6 +23,6 @@
 
   bundle exec sidekiq
 
-* Deployment instructions
+* Interview instructions
 
-  See DEPLOY.rdoc
+  See INSTRUCTIONS.md
